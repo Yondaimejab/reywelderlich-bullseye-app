@@ -4,8 +4,8 @@ This project is one of the apps made in my current progress of the reywenderlich
 This codebase supports only iOS platform minimum OS version iOS 15.0
 
 Orientations Portrait and landscape
-<img src="../Screenshots/portrait-main-screen.png" width="480">
-<img src="../Screenshots/landscape-main-screen.png" width="900">
+<img src="Screenshots/portrait-main-screen.png" width="480">
+<img src="Screenshots/landscape-main-screen.png" width="900">
 
 
 Project Setup
